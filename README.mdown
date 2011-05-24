@@ -1,0 +1,7 @@
+Molecules was created by Brad Larson of [Sunset Lake
+Software](http://sunsetlakesoftware.com)
+
+The author has made the source code available under the BSD license.
+
+Thank you Brad Larson!
+
