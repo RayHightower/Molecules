@@ -1,7 +1,9 @@
-Molecules was created by Brad Larson of [Sunset Lake
-Software](http://sunsetlakesoftware.com)
+"Molecules" is an outstanding iPad app created by Brad Larson of [Sunset Lake
+Software](http://sunsetlakesoftware.com). As of this writing, the app is
+available for free in the iTunes App Store.
 
-The author has made the source code available under the BSD license.
+The author has made the source code available under the BSD license. I
+have added it to GitHub to make version control easier.
 
-Thank you Brad Larson!
+Thank you Brad Larson for this great open source contribution!
 
